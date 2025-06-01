@@ -18,8 +18,12 @@ The repository includes implementations of different OCR approaches and image ma
 
 Features:
 -> Multiple OCR engine implementations (PaddleOCR, PYOCR)
+
 -> Document image preprocessing (deskewing, cropping, rotation)
+
 -> Key-value pair extraction from documents
+
 -> Comprehensive OpenCV-based image processing
+
 
 
