@@ -1,6 +1,6 @@
 # Optical-Character-Recognition
 
-Project Overview:
+### Project Overview:
 The repository includes implementations of different OCR approaches and image manipulation techniques, focusing on document processing and text extraction.
 
 | File Name | Description |
@@ -16,7 +16,8 @@ The repository includes implementations of different OCR approaches and image ma
 | PYOCR | OCR implementation using PYOCR |
 | Wand_Image | Image manipulation using Wand (ImageMagick) |
 
-Features:
+### Features:
+
 -> Multiple OCR engine implementations (PaddleOCR, PYOCR)
 
 -> Document image preprocessing (deskewing, cropping, rotation)
